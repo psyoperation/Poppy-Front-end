@@ -19,27 +19,27 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.saltswap.finance/farms'
+    href: 'https://poppyswap.netlify.app/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.saltswap.finance/pools'
+    href: 'https://poppyswap.netlify.app/pools'
   },
   {
     label: 'Oceans',
     icon: 'WaveIcon',
-    href: 'https://www.saltswap.finance/oceans',
+    href: 'https://poppyswap.netlify.app/oceans',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://www.saltswap.finance/lottery',
+    href: 'https://poppyswap.netlify.app/lottery',
   },
   {
     label: 'Launchpad (IDOs)',
     icon: 'IdoIcon',
-    href: 'https://www.saltswap.finance/ido',
+    href: 'https://poppyswap.netlify.app/ido',
   },
   {
     label: 'Audited By Certik ✅',
@@ -49,7 +49,7 @@ const config: MenuEntry[] = [
   {
     label: 'Price Graph',
     icon: 'GraphIcon',
-    href: 'https://www.saltswap.finance/graph',
+    href: 'https://poppyswap.netlify.app/graph',
   },
   {
     label: 'Listings',
@@ -72,7 +72,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://www.saltswap.finance/lottery'
+  //   href: 'https://poppyswap.netlify.app/lottery'
   // },
   // {
   //   label: 'Info',

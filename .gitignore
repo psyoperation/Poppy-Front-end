@@ -23,7 +23,6 @@ sftp-config.json
 
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 
 notes.txt
 .idea/
@@ -38,3 +37,6 @@ cypress/fixtures/example.json
 
 .eslintcache
 /.github/
+
+# Local Netlify folder
+.netlify
